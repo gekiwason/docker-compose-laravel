@@ -50,7 +50,7 @@ Read this [Wiki](https://github.com/ucan-lab/docker-laravel/wiki).
 
 - Base image
   - [mysql](https://hub.docker.com/_/mysql):8.0
-  - [phpmyadmin]
+  - phpmyadmin追加した
 
 #### Persistent MySQL Storage
 
